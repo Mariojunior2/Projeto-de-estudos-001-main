@@ -1,6 +1,5 @@
 name = input("Fale seu nome! >> ")
 idade = int(input("Fale sua idade! >> "))
-
 print(f"Seu nome é {name}, e sua idade é {idade}")
 
 if idade == 10:
